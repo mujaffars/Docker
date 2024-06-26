@@ -2,7 +2,7 @@
 
 1. List Docker Images
 To verify that your image has been created successfully, you can list all Docker images:
-### sudo docker images
+#### sudo docker images
 
 2. Run a Container from the Image
 To run a container based on your my-app image, use the docker run command:
